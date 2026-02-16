@@ -15,7 +15,7 @@ Kadeti korpusu və ya mühəndislik təmayüllü ixtisaslaşmış məktəblərd�
 Mövcud Çətinliklər və Peşə Təhsili
 2018-ci ilin məlumatlarına görə, ümumi təhsil məktəblərində hər 100 XTE-li şagirdə cəmi 0,72 dəstək müəllimi düşür. Məktəblərin 9,4%-ində isə ümumiyyətlə dəstək müəllimi yoxdur. Nəticədə, mövcud mütəxəssislərin iş yükü artır: bir mütəxəssis orta hesabla 44 XTE-li şagirdlə işləyir.
 Peşə məktəbləri dövlət büdcəsindən maliyyələşir. 2019–2020-ci tədris ilində peşə məktəblərində 1 611 XTE-li şagird təhsil almışdır ki, onların 65,8%-i həmyaşıdları ilə inklüziv şəkildə oxumuşdur. Ali təhsil müəssisələri isə dövlət tərəfindən maliyyələşsə də, öz fəaliyyətlərində geniş muxtariyyətə malikdirlər. 
-(European Agency for Special Needs and Inclusive Education, 2020)
+Mənbə: (European Agency for Special Needs and Inclusive Education, 2020)
 
 2.  Milli Təhsil Siyasəti haqqında Saziş
 (2021-2030)
@@ -46,6 +46,10 @@ Uğur İndikatorları:
 Kənd yerlərində 2-5 yaşlı uşaqların məktəbəqədər təhsildə iştirakı 70%-ə çatdırılacaq (hazırda 46.3%).
 
 Universal dizayn prinsiplərinə uyğun məktəblərin sayı 2030-cu ildə 300-ə çatacaq (hazırda 1).
+(OECD, 2021)
+
+
+
 
 
 Research reports, papers, and presentations
