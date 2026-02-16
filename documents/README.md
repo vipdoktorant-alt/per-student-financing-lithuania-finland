@@ -49,8 +49,38 @@ Universal dizayn prinsiplərinə uyğun məktəblərin sayı 2030-cu ildə 300-�
 (OECD, 2021)
 
 
+3. Hesabatda maliyyələşmənin ədalətliliyi ilə bağlı iki əsas anlayış fərqləndirilir:
 
+Üfüqi Ədalət (Horizontal Equity): Eyni ehtiyaclara malik olan şagirdlərin eyni miqdarda resurs almasını nəzərdə tutur. Məsələn, eyni sinif səviyyəsində olan iki şagirdə bərabər vəsait ayrılması.
 
+Şaquli Ədalət (Vertical Equity): Müxtəlif ehtiyacları olan (məsələn, sosial-iqtisadi çətinlikləri və ya əlilliyi olan) şagirdlərə daha çox resursun ayrılması. Bu, "bərabərsizliyi bərabərləşdirmək" üçün istifadə olunur.
+
+Resursların Adekvatlığı (Resource Adequacy): Bütün şagirdlərin müəyyən edilmiş təhsil standartlarına çatması üçün kifayət qədər vəsaitin təmin edilməsidir.
+
+2. Prinsiplər (Ədalət, Effektivlik, Şəffaflıq)
+OECD bu üç prinsipi uğurlu maliyyələşmənin sütunları hesab edir:
+
+Ədalət (Equity): Maliyyə vəsaitləri elə bölüşdürülməlidir ki, şagirdin uğuru onun valideynlərinin gəliri və ya yaşayış yeri kimi faktorlardan asılı olmasın.
+
+Effektivlik (Efficiency): Resursların israf edilmədən, maksimum təhsil nəticəsi əldə etmək üçün istifadə olunmasıdır. Məsələn, vəsaitin binalardan daha çox müəllim keyfiyyətinə yönəldilməsi.
+
+Şəffaflıq və Hesabatlılıq (Transparency): Vəsaitlərin haradan gəldiyi və hara xərcləndiyi aydın olmalıdır. Bu, yerli icmaların və valideynlərin məktəb büdcəsini izləyə bilməsini təmin edir.
+
+3. Müxtəlif Maliyyələşmə Modelləri
+Hesabatda əsasən üç növ maliyyə bölüşdürülməsi mexanizmi qeyd olunur:
+
+İnzibati diskresiya (Administrative Discretion): Vəsaitlər mərkəzi və ya yerli hakimiyyət tərəfindən hər bir məktəbin fərdi ehtiyaclarına dair mülahizələr əsasında verilir.
+
+Proqram əsaslı maliyyələşmə (Program-based): Müəyyən proqramların (məsələn, rəqəmsal savadlılıq və ya idman proqramı) həyata keçirilməsi üçün ayrılan vəsaitlər.
+
+Düstur əsaslı maliyyələşmə (Formula-based): Vəsaitlərin obyektiv meyarlar (şagird sayı, sosial-iqtisadi status, coğrafi mövqe) əsasında riyazi düsturla hesablanması. Bu model hazırda ən ədalətli model hesab olunur.
+Hesabat müasir ədalətli maliyyələşməni köhnə (ənənəvi) yanaşmalarla müqayisə edir:
+Xüsusiyyət             Ənənəvi Model                                                              Müasir (OECD-nin tövsiyə etdiyi) Model
+Fokus nöqtəsi          Girişlərə (məsələn, neçə müəllim var) əsaslanır.                           Nəticələrə və ehtiyaclara (şagirdin nəyə ehtiyacı var) əsaslanır.  
+Bölgü prinsipi      Tarixi xərclərə əsaslanır (keçən il nə qədər verilibsə, bu il də o qədər).    Obyektiv ehtiyac indikatorlarına (məsələn, yoxsulluq indeksi) əsaslanır. 
+
+Rolla bağlılıq       "Vəsait məktəbi izləyir" (Məktəb binasına görə pul).                         "Vəsait şagirdi izləyir" (Şagirdin ehtiyacına görə pul).
+Qərar vermə          Mərkəzləşdirilmiş və sərt.                                                   Desentralizasiya edilmiş (məktəblərə maliyyə muxtariyyəti verilir).
 
 Research reports, papers, and presentations
 
