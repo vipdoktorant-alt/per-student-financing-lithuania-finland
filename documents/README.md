@@ -17,6 +17,25 @@ Mövcud Çətinliklər və Peşə Təhsili
 Peşə məktəbləri dövlət büdcəsindən maliyyələşir. 2019–2020-ci tədris ilində peşə məktəblərində 1 611 XTE-li şagird təhsil almışdır ki, onların 65,8%-i həmyaşıdları ilə inklüziv şəkildə oxumuşdur. Ali təhsil müəssisələri isə dövlət tərəfindən maliyyələşsə də, öz fəaliyyətlərində geniş muxtariyyətə malikdirlər. 
 (European Agency for Special Needs and Inclusive Education, 2020)
 
+2.  Milli Təhsil Siyasəti haqqında Saziş
+(2021-2030)
+
+Litva Respublikası Seymində təmsil olunan siyasi partiyalar (bundan sonra – partiyalar), Litva Yerli Hakimiyyət Orqanları Assosiasiyası və Milli Təhsil Şurası ilə birlikdə:
+Təhsilin ölkənin tərəqqisi və ictimai rifahın təməli kimi Litva dövlətinin əsas prioriteti olduğunu dərk edərək;
+Hamı üçün bərabər imkanların və təhsilə çıxışda ədalətliliyin yaradılmasının vacibliyini vurğulayaraq;
+Təhsil nəticələrinin fərdin mənfi sosial, iqtisadi və ya mədəni vəziyyətindən mümkün qədər az asılı olmasını təmin etmək məqsədilə;
+Litvada hər bir fərdin təhsilinin dövlət investisiyası və uzunmüddətli öhdəliklər tələb etdiyini qəbul edərək;
+Təhsil sisteminin bütün səviyyələrində özünüidarəetmənin töhfəsini və əhəmiyyətini təqdir edərək;
+Təhsilin daha güclü demokratik cəmiyyət və mədəniyyət formalaşdırmasına, milli, vətəndaş və siyasi şüuru, habelə qarşılıqlı etimadı təşviq etməsinə imkan yaradaraq;
+Siyasi partiyalar arasında təhsil sahəsində uzunmüddətli qərarların davamlılığını və maliyyələşmənin dayanıqlı artımını təmin edəcək praktiki addımlar üzrə razılığa gəlməyə çalışaraq,aşağıdakı əsas öhdəliklər barədə razılığa gəlirlər:
+
+Əsas Öhdəliklər
+Keyfiyyət standartı: 2024-cü ilə qədər həm kənd, həm də şəhər yerlərində bütün uşaqlar üçün əlçatan olan vahid ümumi təhsil keyfiyyət standartını hazırlamaq.
+Keyfiyyət idarəetməsi: Dövlət tərəfindən maliyyələşdirilən bütün (dövlət, bələdiyyə və özəl) təhsil müəssisələrinin keyfiyyət idarəetmə sistemində iştirakını təmin etmək.
+İnklüziv təhsil: 2023-cü ilin sonuna qədər ən azı beş müxtəlif tipli bələdiyyədə inklüziv təhsil tədbirlərini sınaqdan keçirmək və tətbiq etmək. Dəstək mütəxəssislərinin sayını normativlərə uyğunlaşdırmaq.
+
+
+
 
 Research reports, papers, and presentations
 
