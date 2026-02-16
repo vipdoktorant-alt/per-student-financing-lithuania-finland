@@ -39,6 +39,14 @@ Ali təhsildə tələbəbaşına düşən vəsait (Adambaşına ÜDM-in %-i ilə
 R&D (Tədqiqat və İnkişaf) xərcləri (ÜDM-in %-i ilə)                        0.3%                 0.75%           1.0%
  
 
+Uğur İndikatorları:
+
+2030-cu ilə qədər bütün məktəblər STEAM tədrisi üçün fiziki və virtual laboratoriyalarla təmin olunacaq.
+
+Kənd yerlərində 2-5 yaşlı uşaqların məktəbəqədər təhsildə iştirakı 70%-ə çatdırılacaq (hazırda 46.3%).
+
+Universal dizayn prinsiplərinə uyğun məktəblərin sayı 2030-cu ildə 300-ə çatacaq (hazırda 1).
+
 
 Research reports, papers, and presentations
 
