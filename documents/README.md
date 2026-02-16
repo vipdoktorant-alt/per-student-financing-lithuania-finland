@@ -33,8 +33,11 @@ Siyasi partiyalar arasında təhsil sahəsində uzunmüddətli qərarların dava
 Keyfiyyət standartı: 2024-cü ilə qədər həm kənd, həm də şəhər yerlərində bütün uşaqlar üçün əlçatan olan vahid ümumi təhsil keyfiyyət standartını hazırlamaq.
 Keyfiyyət idarəetməsi: Dövlət tərəfindən maliyyələşdirilən bütün (dövlət, bələdiyyə və özəl) təhsil müəssisələrinin keyfiyyət idarəetmə sistemində iştirakını təmin etmək.
 İnklüziv təhsil: 2023-cü ilin sonuna qədər ən azı beş müxtəlif tipli bələdiyyədə inklüziv təhsil tədbirlərini sınaqdan keçirmək və tətbiq etmək. Dəstək mütəxəssislərinin sayını normativlərə uyğunlaşdırmaq.
-
-
+Göstərici                                                                  2017/2018 Fakt       2024 Hədəfi     2030 Hədəfi
+Ümumi təhsildə şagirdbaşına düşən vəsait (Adambaşına ÜDM-in %-i ilə)       17.8%                -               24%
+Ali təhsildə tələbəbaşına düşən vəsait (Adambaşına ÜDM-in %-i ilə)         25%                  -               36%
+R&D (Tədqiqat və İnkişaf) xərcləri (ÜDM-in %-i ilə)                        0.3%                 0.75%           1.0%
+ 
 
 
 Research reports, papers, and presentations
