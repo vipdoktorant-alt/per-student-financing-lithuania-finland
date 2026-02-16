@@ -82,6 +82,8 @@ Bölgü prinsipi      Tarixi xərclərə əsaslanır (keçən il nə qədər ver
 Rolla bağlılıq       "Vəsait məktəbi izləyir" (Məktəb binasına görə pul).                         "Vəsait şagirdi izləyir" (Şagirdin ehtiyacına görə pul).
 Qərar vermə          Mərkəzləşdirilmiş və sərt.                                                   Desentralizasiya edilmiş (məktəblərə maliyyə muxtariyyəti verilir).
 
+Mənbə: (OECD, 2021)
+
 Research reports, papers, and presentations
 
 ## Content:
