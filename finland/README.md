@@ -163,7 +163,7 @@ MƏnbə https://www.oph.fi/sites/default/files/documents/funding-pre-primary-and
 
 
 "2013-2023-cü illər ərzində Finlandiyada hər şagirdə düşən ümumi təhsil xərcləri"
-statiska sheklini elave et
+statiska sheklini elave et (Statistics Finland, 2025)
 
 "2013-2023-cü illəri əhatə edən dövr ərzində Finlandiyada ibtidai təhsildə hər şagirdə düşən dövlət xərcləri ümumilikdə artmışdır. 2023-cü il tarixinə olan məlumata görə, ümumi təhsil xərcləri hər şagird üçün 10,742 avro təşkil etmişdir. Bu, 2013-cü il ilə müqayisədə təxminən 2,444 avroluq bir artım deməkdir."
 
